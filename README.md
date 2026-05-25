@@ -125,5 +125,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 **Naitik Raj**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- GitHub: [@naitik-raj17](https://github.com/naitik-raj17)
